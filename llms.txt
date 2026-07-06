@@ -1,0 +1,52 @@
+# Geotechnik — Heidelberg
+
+> Geotechnical engineering services in Heidelberg, Deutschland.
+
+## Services
+- [Anker](https://heidelberg.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://heidelberg.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://heidelberg.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://heidelberg.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://heidelberg.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://heidelberg.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://heidelberg.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://heidelberg.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://heidelberg.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://heidelberg.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://heidelberg.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://heidelberg.geotechnik.vip/fundamente/)
+- [Geophysik](https://heidelberg.geotechnik.vip/geophysik/)
+- [Grundungen](https://heidelberg.geotechnik.vip/grundungen/)
+- [Hange](https://heidelberg.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://heidelberg.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://heidelberg.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://heidelberg.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://heidelberg.geotechnik.vip/labor/)
+- [Labor In Situ](https://heidelberg.geotechnik.vip/labor-in-situ/)
+- [Masw](https://heidelberg.geotechnik.vip/masw/)
+- [Pfahle](https://heidelberg.geotechnik.vip/pfahle/)
+- [Plattendruckversuch](https://heidelberg.geotechnik.vip/plattendruckversuch/)
+- [Ruttelverdichtung](https://heidelberg.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://heidelberg.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://heidelberg.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://heidelberg.geotechnik.vip/schurfgruben/)
+- [Seismik](https://heidelberg.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://heidelberg.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://heidelberg.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://heidelberg.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://heidelberg.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://heidelberg.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://heidelberg.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://heidelberg.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://heidelberg.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://heidelberg.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://heidelberg.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://heidelberg.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://heidelberg.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://heidelberg.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Heidelberg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
